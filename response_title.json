@@ -1,0 +1,1 @@
+{"id":"cmpl-6QrmI9gfirlcQyijZzRGbLv8CqWMY","object":"text_completion","created":1671861270,"model":"text-davinci-003","choices":[{"text":"\n\n1.佳能单反相机EOS 5D Mark IV：极致拍摄体验\n2.佳能单反相机EOS 5D Mark IV：超强性能助您记录精彩瞬间\n3.佳能单反相机EOS 5D Mark IV：精彩画质，无限可能","index":0,"logprobs":null,"finish_reason":"stop"}],"usage":{"prompt_tokens":72,"completion_tokens":138,"total_tokens":210}}
